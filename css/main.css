@@ -1,0 +1,8 @@
+header {
+	color: green;
+	display: inline;
+}
+
+header li {
+	list-style-type: none;
+}
