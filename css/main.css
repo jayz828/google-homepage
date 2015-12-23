@@ -32,5 +32,16 @@ header li {
 #searchText input{
 	width: 425px;
 	height: 26px;
+	margin-left: 425px;
+
+}
+
+#buttons {
+	margin-left: 525px;
+	margin-top: 25px;
+}
+
+#buttons button{
+	margin-right: 10px;
 
 }
