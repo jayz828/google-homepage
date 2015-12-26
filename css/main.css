@@ -1,6 +1,7 @@
 body {
 	font-family: arial, sans-serif;
 	font-size: small;
+	margin: 0;
 }
 
 header {
@@ -9,11 +10,13 @@ header {
 	
 }
 
-header li {
+.navStyle li {
 	list-style-type: none;
 	display: inline;
-	padding: 5px;
-}
+	padding-right: 20px;
+} 
+
+
 
 #logo {
 	// width: 50px;
@@ -45,3 +48,30 @@ header li {
 	margin-right: 10px;
 
 }
+footer {
+	margin-top: 303px;
+	margin-bottom: 0;
+	width: 100%;
+	height: 40px;
+	background-color: #f2f2f2;
+	font-size: small;
+	padding: 0;
+}
+footer ul {
+	padding: 3px;
+	padding-bottom: 0;
+
+
+}
+
+.navStyle {
+	float: left;
+	margin-left: 20px;
+	color: rgb(34,34,34);
+}
+
+#privacy { 
+	position: absolute;
+	right: 50px;
+}
+
