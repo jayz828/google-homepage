@@ -75,3 +75,13 @@ footer ul {
 	right: 50px;
 }
 
+
+#searchText input{
+	height: 30px;
+	background-image: url("../images/mic.jpg");
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: 30px 30px;
+
+}
+
