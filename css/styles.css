@@ -23,7 +23,7 @@ header {
 	height : 50%;
 	width: 50%;
 	top: 0;
-	bottom: 0;
+	bottom: 10%;
 	right: 0;
 	left: 0;
 	/*background: red;*/
@@ -65,7 +65,7 @@ header {
 
 	display: block;
 	margin: auto;
-	
+
 	/*margin-left: 425px;*/
 
 }
